@@ -1,0 +1,290 @@
+# Copyright (C) 2019 WooCommerce
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Instagram 2.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://github.com/woocommerce/woocommerce-instagram/issues\n"
+"POT-Creation-Date: 2019-02-01 16:02:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Instagram"
+msgstr ""
+
+#: includes/admin/notices/update.php:22
+msgid "Run the updater"
+msgstr ""
+
+#: includes/admin/notices/updating.php:22
+msgid "Taking a while? Click here to run it now."
+msgstr ""
+
+#: includes/class-wc-instagram-singleton.php:52
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: includes/class-wc-instagram-singleton.php:62
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#: includes/libraries/wp-background-process.php:423
+msgid "Every %d Minutes"
+msgstr ""
+
+#: templates/single-product/instagram.php:27
+#. translators: %s: product title
+msgid "%s on Instagram"
+msgstr ""
+
+#: templates/single-product/instagram.php:51
+#. translators: 1: product title, 2: product hashtag
+msgid "Want to share your instagrams of you with your %1$s? Use the %2$s hashtag."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://woocommerce.com/products/woocommerce-instagram/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Connect your Instagram account with WooCommerce. Showcase Instagrams from "
+"all over the world, showing visitors how your customers are showcasing your "
+"products."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooCommerce"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://woocommerce.com/"
+msgstr ""
+
+#: includes/admin/class-wc-instagram-admin.php:62
+msgctxt "settings notice"
+msgid "Your Instagram account was disconnected successfully."
+msgstr ""
+
+#: includes/admin/class-wc-instagram-admin.php:93
+msgctxt "settings notice"
+msgid "Your Instagram account was connected successfully."
+msgstr ""
+
+#: includes/admin/class-wc-instagram-admin.php:95
+msgctxt "settings error"
+msgid "Authentication failed or canceled by the user."
+msgstr ""
+
+#: includes/admin/class-wc-instagram-admin.php:97
+msgctxt "settings error"
+msgid "An unexpected error occurred."
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:367
+msgctxt "settings error"
+msgid ""
+"The selected Facebook Page doesn't have an Instagram Business Account "
+"connected to it."
+msgstr ""
+
+#: includes/admin/class-wc-instagram-admin.php:127
+msgctxt "aria-label: settings link"
+msgid "View WooCommerce Instagram settings"
+msgstr ""
+
+#: includes/admin/class-wc-instagram-admin.php:128
+msgctxt "plugin action link"
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wc-instagram-admin.php:151
+#: includes/class-wc-instagram-integration.php:235
+msgctxt "aria-label: documentation link"
+msgid "View WooCommerce Instagram documentation"
+msgstr ""
+
+#: includes/admin/class-wc-instagram-admin.php:152
+msgctxt "plugin row link"
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-instagram-meta-box-product-data.php:39
+msgctxt "product data tab"
+msgid "Instagram"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-product-data-instagram.php:17
+msgctxt "product data setting title"
+msgid "Hashtag"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-product-data-instagram.php:18
+msgctxt "product data setting desc"
+msgid "Display images for a given hashtag."
+msgstr ""
+
+#: includes/admin/notices/api-changes.php:21
+#. translators: %s: settings page URL
+msgctxt "admin notice"
+msgid ""
+"Due to important changes in the Instagram API, it's necessary to <a "
+"href=\"%s\">reconnect your account</a>."
+msgstr ""
+
+#: includes/admin/notices/update.php:19
+msgctxt "admin notice"
+msgid "We need to update your store database to the latest version."
+msgstr ""
+
+#: includes/admin/notices/update.php:28
+msgctxt "admin notice"
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: includes/admin/notices/updating.php:21
+msgctxt "admin notice"
+msgid "Your database is being updated in the background."
+msgstr ""
+
+#: includes/class-wc-instagram-background-updater.php:143
+msgctxt "admin notice"
+msgid ""
+"WooCommerce Instagram update complete. Thank you for updating to the latest "
+"version!"
+msgstr ""
+
+#: woocommerce-instagram.php:62
+#. translators: %s: WooCommerce version
+msgctxt "admin notice"
+msgid "<strong>WooCommerce Instagram</strong> requires WooCommerce %s or higher."
+msgstr ""
+
+#: woocommerce-instagram.php:64
+msgctxt "admin notice"
+msgid ""
+"<strong>WooCommerce Instagram</strong> requires WooCommerce to be activated "
+"to work."
+msgstr ""
+
+#: includes/api/nodes/abstract-class-wc-instagram-api-node.php:130
+msgctxt "API error message"
+msgid "Access token not found."
+msgstr ""
+
+#: includes/api/nodes/abstract-class-wc-instagram-api-node.php:145
+#. translators: %s: the used HTTP method
+msgctxt "API error message"
+msgid "Invalid HTTP method: %s."
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:33
+msgctxt "settings page title"
+msgid "Instagram"
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:34
+msgctxt "settings page description"
+msgid "Connect your Instagram Business account."
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:184
+msgctxt "setting title"
+msgid "Connected as"
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:189
+msgctxt "setting title"
+msgid "Facebook page"
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:195
+msgctxt "setting title"
+msgid "Disconnect account"
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:208
+msgctxt "setting title"
+msgid "Number of images"
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:219
+msgctxt "setting title"
+msgid "Number of columns"
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:241
+msgctxt "setting title"
+msgid "Connect Account"
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:185
+msgctxt "setting desc"
+msgid "The account connected."
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:190
+msgctxt "setting desc"
+msgid "Choose the Facebook Page connected with your Instagram Business account."
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:197
+msgctxt "setting desc"
+msgid "Revoke WooCommerce access to your Instagram account."
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:209
+msgctxt "setting desc"
+msgid "This sets the number of images shown on product page."
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:220
+msgctxt "setting desc"
+msgid "This sets the number of columns shown on product page."
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:233
+#. translators: 1: documentation link, 2: arial-label
+msgctxt "setting desc"
+msgid ""
+"We strongly recommend you to read our <a href=\"%1$s\" aria-label=\"%2$s\" "
+"target=\"_blank\">documentation</a> before connecting your account."
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:243
+msgctxt "setting desc"
+msgid "Authorize WooCommerce to access your Instagram account."
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:196
+msgctxt "disconnect account button"
+msgid "Disconnect"
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:203
+msgctxt "settings section title"
+msgid "Product page"
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:204
+msgctxt "settings section desc"
+msgid "Display product-related Instagram images on each individual product screen."
+msgstr ""
+
+#: includes/class-wc-instagram-integration.php:242
+msgctxt "connect account button"
+msgid "Login with Facebook"
+msgstr ""
+
+#: includes/wc-instagram-api-functions.php:115
+msgctxt "Facebook page setting placeholder"
+msgid "Choose a page"
+msgstr ""
