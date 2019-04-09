@@ -3,7 +3,7 @@
  * Plugin Name: HYP WC Instagram
  * Plugin URI: https://github.com/hypericumimpex/hyp-wc-gram/
  * Description: Connect your Instagram account with WooCommerce. Showcase Instagrams from all over the world, showing visitors how your customers are showcasing your products.
- * Version: 2.0.0
+ * Version: 2.0.1
  * Author: Hypericum
  * Author URI: https://github.com/hypericumimpex/
  * Developer: Themesquad
@@ -11,7 +11,7 @@
  * Requires at least: 4.1
  * Tested up to: 5.0
  * WC requires at least: 2.4
- * WC tested up to: 3.5
+ * WC tested up to: 3.6
  * Woo: 260061:ecaa2080668997daf396b8f8a50d891a
  *
  * Text Domain: woocommerce-instagram

@@ -1,5 +1,8 @@
 *** WooCommerce Instagram Changelog ***
 
+2019-04-05 - version 2.0.1
+* Tweak - Added compatibility with WC 3.6.
+
 2019-02-04 - version 2.0.0
 * Feature - Use the new Instagram Graph API.
 * Feature - Customize the frontend HTML content using WooCommerce template files.
